@@ -115,7 +115,7 @@ body{
 
 .chwidth {
     display: inline-block;
-    width: 100%; /* Ensuring div takes full width on mobile */
+    width: 80%%; /* Ensuring div takes full width on mobile */
 }
 
 .calci {
@@ -127,7 +127,7 @@ body{
 .outputScreen {
     height: 80px; /* Reduced height for better mobile display */
     background-color: #FFF8DE;
-    width: 100%;
+    width: 88.8%;
     margin-bottom: 20px;
     padding: 15px; /* Adjusted padding for better mobile spacing */
     font-size: 1.5rem; /* Reduced font size for better readability on mobile */
