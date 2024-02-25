@@ -140,8 +140,8 @@ body{
 
 .btStyle {
     border-radius: 50%;
-    height: 10px; /* Reduced height for better mobile display */
-    width: 10px; /* Reduced width for better mobile display */
+    height: 20px; /* Reduced height for better mobile display */
+    width: 20px; /* Reduced width for better mobile display */
     border: none;
     margin: 6px; /* Reduced margin for better mobile spacing */
     font-weight: bold;
